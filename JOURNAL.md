@@ -5,7 +5,7 @@ description: "A colling stand and cool thing for my laptop"
 created_at: "2025-6-05"
 ---
 
-## June 7 actualy starting
+#### June 7 actualy starting
 
 so the plan is to have a cooling pad that includes 2 usb-c ports(from a hub) and an ethernet port
 
@@ -26,7 +26,7 @@ spent about 1hr trying to find the right risitor
 
 ** Total Time spent 3hr ** 
 
-## June 7 part 2
+#### June 7 part 2
 
 I finished the scematic and PCB 
 
@@ -39,3 +39,13 @@ I am going to use normal fan connectors for my thing
 I am also going to need to use PCBway's assembely thing because I can't hand solder a good handful of the components
 
 ** Total time spent 1hr 
+
+#### June 9 fixing PCB 
+
+My PCB has a problem where my drill holes are too small and need fixing
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/39d9717cea20de48c2353f18908326993ec17a9a_image.png)
+
+Finished PCB.
+
+** Total Time Spent 1hr **
