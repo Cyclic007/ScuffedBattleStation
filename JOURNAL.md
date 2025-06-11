@@ -24,7 +24,7 @@ I also am going to be useing USB 2.0
 
 spent about 1hr trying to find the right risitor
 
-** Total Time spent 3hr ** 
+** Total Time spent 5hr ** 
 
 #### June 7 part 2
 
@@ -49,3 +49,13 @@ My PCB has a problem where my drill holes are too small and need fixing
 Finished PCB.
 
 ** Total Time Spent 1hr **
+
+#### June 11 making 3d models
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5e81d29f6b0a5c9428853da5d7627ed5fdb7f7ee_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ea9be0c1a7128b3404cefe927e0488eec02ef515_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7e5adcec03061fe27feb3d5e3523446423bf2d5_image.png)
+
+** Total time spent 3 hr **
