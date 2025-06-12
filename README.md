@@ -1,6 +1,6 @@
 # ScuffedBattleStation
 
-This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adapter. Built for Inspireon 16 5020
+This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adapter. Built for Dell Inspireon 16.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d826565080f8e3d7618f18240a6986696e57bb7d_image.png)
 
@@ -17,6 +17,6 @@ This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adap
 
 | Part             | cost   | source                                                                                           |
 |------------------|--------|--------------------------------------------------------------------------------------------------|
-| PCB              | $53.93 | JLCPCB                                                                                           |
-| USB-C receptical | $3.42  | https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12401598E4-2A/6051824 |
+| PCBA + components| $53.93 | JLCPCB                                                                                           |
+| USB-C receptacle | $3.42  | https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12401598E4-2A/6051824 |
 | fans             | $26.56 | https://www.digikey.com/en/products/detail/nidec-components-corporation/F310R-05LC/1165517       |
