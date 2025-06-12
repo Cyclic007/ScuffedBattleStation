@@ -76,4 +76,6 @@ JLCPCB also has no USBC receptacles so I am going to get them separately and han
 
 I am also going to hand solder the fans directly to the PCB 
 
-** Total time spent 6 hr **
+Also prepped to ship
+
+** Total time spent 5 hr **
