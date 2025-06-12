@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC,Quantity
+R,"R1,R2,R3,R4,R5,R7",R_0815_2038Metric,C2021,6
+RJ45,J2,RJ45_Amphenol_54602-x08_Horizontal,C2847314,1
+USB_C_Receptacle,"J1,J3,J4",USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,C3197851,3
+LAN9512i,U2,QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm,C633505,1

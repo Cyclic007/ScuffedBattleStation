@@ -59,3 +59,16 @@ Finished PCB.
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7e5adcec03061fe27feb3d5e3523446423bf2d5_image.png)
 
 ** Total time spent 3 hr **
+
+#### June 12 working more on 3d models
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d826565080f8e3d7618f18240a6986696e57bb7d_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aa7b1a590809a847a9704768ae77a849fa3e970_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4ed4c2659cc7666ac6c0c2a0384ba3f3e5f181be_image.png)
+
+in this rendition there are now slots in the frame to put the platforms and made it actually possible to put the feet on the frame
+
+
+** Total time spent 4 hr **

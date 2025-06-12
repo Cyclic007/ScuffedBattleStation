@@ -1,0 +1,17 @@
+Designator,Val,Package,MidX,MidY,Rotation,Side
+J1,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,125.5,-59.5,0,top
+J2,RJ45,RJ45_Amphenol_54602-x08_Horizontal,167.7825,-68.1,180,top
+J3,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,137,-59.5,0,top
+J4,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,148.6,-59.51,0,top
+M1,Fan_PC_Chassis,FanPinHeader_1x03_P2.54mm_Vertical,147.92,-69,0,top
+M2,Fan_PC_Chassis,FanPinHeader_1x03_P2.54mm_Vertical,138.92,-69,0,top
+M3,Fan_PC_Chassis,FanPinHeader_1x03_P2.54mm_Vertical,129.92,-69,0,top
+M4,Fan_PC_Chassis,FanPinHeader_1x03_P2.54mm_Vertical,120.92,-69,0,top
+R1,R,R_0815_2038Metric,112,-61,0,top
+R2,R,R_0815_2038Metric,112,-56,0,top
+R3,R,R_0815_2038Metric,117,-61,0,top
+R4,R,R_0815_2038Metric,117,-56,0,top
+R5,R,R_0815_2038Metric,173.5,-63,0,top
+R7,R,R_0815_2038Metric,177.5,-63,0,top
+SW1,SW_DPDT_x2,SW_CK_JS202011CQN_DPDT_Straight,174,-54.3575,0,top
+U2,LAN9512i,QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm,143.5,-82.5,90,top

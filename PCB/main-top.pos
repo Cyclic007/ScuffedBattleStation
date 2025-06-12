@@ -1,0 +1,22 @@
+### Footprint positions - created on 2025-06-12T15:19:46-0500 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val               Package                                                     PosX       PosY       Rot  Side
+J1        USB_C_Receptacle  USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles   125.5000   -59.5000    0.0000  top
+J2        RJ45              RJ45_Amphenol_54602-x08_Horizontal                      167.7825   -68.1000  180.0000  top
+J3        USB_C_Receptacle  USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles   137.0000   -59.5000    0.0000  top
+J4        USB_C_Receptacle  USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles   148.6000   -59.5100    0.0000  top
+M1        Fan_PC_Chassis    FanPinHeader_1x03_P2.54mm_Vertical                      147.9200   -69.0000    0.0000  top
+M2        Fan_PC_Chassis    FanPinHeader_1x03_P2.54mm_Vertical                      138.9200   -69.0000    0.0000  top
+M3        Fan_PC_Chassis    FanPinHeader_1x03_P2.54mm_Vertical                      129.9200   -69.0000    0.0000  top
+M4        Fan_PC_Chassis    FanPinHeader_1x03_P2.54mm_Vertical                      120.9200   -69.0000    0.0000  top
+R1        R                 R_0815_2038Metric                                       112.0000   -61.0000    0.0000  top
+R2        R                 R_0815_2038Metric                                       112.0000   -56.0000    0.0000  top
+R3        R                 R_0815_2038Metric                                       117.0000   -61.0000    0.0000  top
+R4        R                 R_0815_2038Metric                                       117.0000   -56.0000    0.0000  top
+R5        R                 R_0815_2038Metric                                       173.5000   -63.0000    0.0000  top
+R7        R                 R_0815_2038Metric                                       177.5000   -63.0000    0.0000  top
+SW1       SW_DPDT_x2        SW_CK_JS202011CQN_DPDT_Straight                         174.0000   -54.3575    0.0000  top
+U2        LAN9512i          QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm                     143.5000   -82.5000   90.0000  top
+## End
