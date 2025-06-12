@@ -234,6 +234,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C3197851"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a3e79a00-7a0d-4a96-9310-4d59b598c64d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/1d240f9b-d3ae-4b3e-b7f6-6c23f9432bdd")
 		(sheetname "/")
@@ -770,6 +782,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2021"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fcd85986-4185-4589-833e-5971931cfc9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/85c66ee0-97ad-4508-a37b-76de4eef0b6e")
 		(sheetname "/")
@@ -971,11 +995,23 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "cfbb30ff-0506-4dea-8503-900fba570689")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*")
 		(path "/0c5092a0-701f-4eaa-83cb-ce18251a0fa8")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -1267,11 +1303,23 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2d6b5558-03b2-469f-a610-ea7b960246bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*")
 		(path "/34123941-f0a8-4820-a261-0297bceb626c")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -1562,6 +1610,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2021"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1b339110-27bc-4329-bc0c-ef329a116246")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2175e40d-fa91-453a-a237-949d1849fa24")
 		(sheetname "/")
@@ -1756,6 +1816,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a02ae00e-e044-40f3-bf35-40d91b0b3ddc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2847314"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "776b2a5e-f220-46cf-ae43-c74ea4feb834")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2091,6 +2163,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5bdb5e4e-f95e-4d5a-94f4-5b8323c0daba")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C633505"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e3473e05-6fb1-405f-9e21-357974e5bbef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3310,6 +3394,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2021"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2200f168-5221-406e-9eb7-9eb8c3dc081f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46997e6a-400c-49ff-9cc6-a3d692840388")
 		(sheetname "/")
@@ -3515,7 +3611,7 @@
 		(path "/3b768fc1-ca4e-43e0-b9b7-0cbb225d5fe4")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.1 -0.45)
 			(end -2.1 3.75)
@@ -3807,6 +3903,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ecf17cc-2830-46a3-87c4-529208419788")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3197851"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "65c3b8a5-f1c2-4756-b5e6-1d96cebd1d38")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4350,6 +4458,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2021"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e89f018a-d6ed-47d5-aac5-b7482ffbae00")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0f2117f7-1ee0-4f96-9c6e-474451004821")
 		(sheetname "/")
@@ -4544,6 +4664,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a4feff4-cab7-4c9e-bf08-c819f5300a66")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3197851"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c4c1061d-8d06-4d04-b4f4-070d048083bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5087,6 +5219,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2021"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1d18a24d-cdb3-4ab8-a339-283e63e2b8ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/302cbe7a-530f-48f3-b8b1-fc8ed7384240")
 		(sheetname "/")
@@ -5288,11 +5432,23 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "88ed1acf-5d7f-47fd-8b8c-1ddefeb05bc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*")
 		(path "/def563b4-5ce4-407d-95e7-40b991e34484")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -5583,6 +5739,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2021"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "65d85ac9-e78a-40a3-b85e-f827c2b6ee44")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1294becd-c526-4efd-bdbe-e5935701a618")
 		(sheetname "/")
@@ -5784,11 +5952,23 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "29ef6184-4bb4-4cc0-aa06-8375a867bfe6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*")
 		(path "/963be307-715f-4125-a1cc-5acc9d4bd8da")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
