@@ -70,5 +70,10 @@ Finished PCB.
 
 in this rendition there are now slots in the frame to put the platforms and made it actually possible to put the feet on the frame
 
+While I was trying to find price I found that JLPCB does not have the exact parts I need so I am going to have them find the right parts 
 
-** Total time spent 4 hr **
+JLCPCB also has no USBC receptacles so I am going to get them separately and hand solder
+
+I am also going to hand solder the fans directly to the PCB 
+
+** Total time spent 6 hr **
