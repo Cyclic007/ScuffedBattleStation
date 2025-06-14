@@ -79,3 +79,13 @@ I am also going to hand solder the fans directly to the PCB
 Also prepped to ship
 
 ** Total time spent 5 hr **
+
+#### June 14 PCB fixing
+
+I found out that I screwed up the pcb and had all of my USB-c connectors flipped in the wrong direction so I fixed that and rerouted
+
+I also found that I forgot to attach a resistor and forgot to connect shield to gnd
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc98765bd9ac918f3bfee273648a23a9e3b9813a_image.png)
+
+** Total time spent 1 hr ** 

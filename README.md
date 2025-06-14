@@ -6,7 +6,7 @@ This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adap
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aa7b1a590809a847a9704768ae77a849fa3e970_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4ed4c2659cc7666ac6c0c2a0384ba3f3e5f181be_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc98765bd9ac918f3bfee273648a23a9e3b9813a_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/39d9717cea20de48c2353f18908326993ec17a9a_image.png)
 
