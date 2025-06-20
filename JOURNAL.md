@@ -99,3 +99,7 @@ I also fixed BOM
 I also fixed the PCB and got an actual price for the PCBA
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3ba1ef5c528257cfcc808a5a282add16cd73cd07_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3a357abe8db24ee9502bfab07dfefeb25be6c59e_image.png)
+
+** Total time spent 2hr **
