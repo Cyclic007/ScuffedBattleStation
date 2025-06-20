@@ -15,6 +15,5 @@ This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adap
 
 | Part             | cost   | source                                                                                           |
 |------------------|--------|--------------------------------------------------------------------------------------------------|
-| PCBA + components| $53.93 | JLCPCB                                                                                           |
-| USB-C receptacle | $3.42  | https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12401598E4-2A/6051824 |
+| PCBA + components| $92.89 | JLCPCB                                                                                           |
 | fans             | $26.56 | https://www.digikey.com/en/products/detail/nidec-components-corporation/F310R-05LC/1165517       |
