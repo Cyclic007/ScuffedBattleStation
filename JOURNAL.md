@@ -89,3 +89,13 @@ I also found that I forgot to attach a resistor and forgot to connect shield to 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc98765bd9ac918f3bfee273648a23a9e3b9813a_image.png)
 
 ** Total time spent 1 hr ** 
+
+#### June 16 adding crystals
+
+I found that the controller I am useing needs an external crystal ossolator and needs all of the 3.3v pins connected so I fixed that and added KC2520Z1.84320C1KX00 to the PCB
+
+I also fixed BOM
+
+I also fixed the PCB and got an actual price for the PCBA
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3ba1ef5c528257cfcc808a5a282add16cd73cd07_image.png)
