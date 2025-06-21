@@ -1,14 +1,36 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-J1,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,148.01,-57.755,180.0,top
-J2,RJ45,RJ45_Amphenol_54602-x08_Horizontal,163.0875,-63.02,180.0,top
-J3,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,124.95,-57.905,180.0,top
-J4,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,136.49,-57.915,180.0,top
-R1,R,R_0815_2038Metric,112.0,-61.0,0.0,top
-R2,R,R_0815_2038Metric,112.0,-56.0,0.0,top
-R3,R,R_0815_2038Metric,117.0,-61.0,0.0,top
-R4,R,R_0815_2038Metric,117.0,-56.0,0.0,top
-R5,R,R_0815_2038Metric,173.5,-63.0,0.0,top
-R6,R,R_0815_2038Metric,177.8125,-71.75,0.0,top
-R7,R,R_0815_2038Metric,177.5,-63.0,0.0,top
-U2,LAN9512i,QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm,143.5,-82.5,90.0,top
-Y2,KC2520Z,Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm,157.025,-87.075,0.0,top
+C1,0.1 pF,C_0201_0603Metric,138.25,-69.25,180.0,top
+C10,0.1,C_0201_0603Metric,138.82,-79.75,0.0,top
+C11,4.7,C_0201_0603Metric,153.68,-83.75,0.0,top
+C2,33 pF,C_0201_0603Metric,138.0,-70.75,90.0,top
+C3,0.1,C_0201_0603Metric,169.25,-81.0,0.0,top
+C4,0.1,C_0201_0603Metric,154.75,-77.07,-90.0,top
+C5,0.1 uF,C_0201_0603Metric,125.68,-62.5,0.0,top
+C6,330,C_0201_0603Metric,147.75,-63.75,0.0,top
+C8,1.0,C_0201_0603Metric,135.75,-73.75,90.0,top
+C9,0.1,C_0201_0603Metric,154.25,-80.75,90.0,top
+FB1,FerriteBead,L_Ferrocore_DLG-0302,158.75,-67.25,90.0,top
+J1,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,155.25,-57.165,180.0,top
+J3,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,143.75,-57.165,180.0,top
+J4,USB_C_Receptacle,USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles,132.25,-57.165,180.0,top
+J6,RJ45_Amphenol_RJMG1BD3B8K1ANR,RJ45_Amphenol_RJMG1BD3B8K1ANR,172.5,-61.0225,180.0,top
+R1,5.1k,R_0201_0603Metric,143.25,-66.25,180.0,top
+R10,10,R_0201_0603Metric,168.5,-74.0,-90.0,top
+R11,10,R_0201_0603Metric,165.68,-72.0,180.0,top
+R12,10,R_0201_0603Metric,153.57,-69.0,180.0,top
+R13,10,R_0201_0603Metric,176.07,-71.5,180.0,top
+R14,10,R_0201_0603Metric,169.18,-76.5,180.0,top
+R15,330,R_0201_0603Metric,125.5,-56.32,-90.0,top
+R16,0.1 uF,R_0201_0603Metric,147.75,-62.75,180.0,top
+R17,39.2 K,R_0201_0603Metric,146.68,-84.5,180.0,top
+R18,61.9 K,R_0201_0603Metric,138.5,-83.32,90.0,top
+R2,5.1k,R_0201_0603Metric,127.5,-64.5,0.0,top
+R3,5.1k,R_0201_0603Metric,134.25,-64.0,180.0,top
+R4,5.1k,R_0201_0603Metric,145.5,-66.25,180.0,top
+R5,12.0 k,R_0201_0603Metric,141.5,-72.25,0.0,top
+R6,R,R_0201_0603Metric,153.0,-63.0,0.0,top
+R7,R,R_0201_0603Metric,156.75,-62.75,180.0,top
+R8,1.0 M,R_0201_0603Metric,143.18,-71.5,0.0,top
+R9,12.4k,R_0201_0603Metric,149.25,-71.18,90.0,top
+U2,LAN9512i,QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm,145.75,-78.25,0.0,top
+Y2,KC2520Z,Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm,140.75,-70.0,90.0,top

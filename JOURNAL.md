@@ -103,3 +103,17 @@ I also fixed the PCB and got an actual price for the PCBA
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3a357abe8db24ee9502bfab07dfefeb25be6c59e_image.png)
 
 ** Total time spent 2hr **
+
+#### June 20/21 Fixing things at the pool
+
+I found that there are more things that are wrong in my design and I need to read more datasheets and docs to fix it and also need to redo all the wireing 
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6d6418369d1c090a58e0763c2938c9b7cd8a9d00_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/21779622614083a291217c2c87be5b3768c04944_image.png)
+
+I also got the new price 
+
+I will ask for rereview.
+
+** total time spent 4hr **
