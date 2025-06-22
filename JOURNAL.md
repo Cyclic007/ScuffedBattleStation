@@ -117,3 +117,11 @@ I also got the new price
 I will ask for rereview.
 
 ** total time spent 4hr **
+
+#### June 22 Almost there
+
+got told that my caps are too far from the MCU so I moved them and fixed that
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1255a3d735f3e5204ec25bfc92f0492910ff864c_image.png)
+
+** Total time spent 30 min **
