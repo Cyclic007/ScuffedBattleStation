@@ -23,4 +23,4 @@ This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adap
 | Part             | cost   | source                                                                                           |
 |------------------|--------|--------------------------------------------------------------------------------------------------|
 | PCBA + components| $117.39 | JLCPCB                                                                                           |
-| fans             | $26.56 | https://www.digikey.com/en/products/detail/nidec-components-corporation/F310R-05LC/1165517       |
+| fans             | $35.11 | https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CFM-8025V-232-330/7620559       |
