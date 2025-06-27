@@ -20,6 +20,8 @@ This is a custom cooling platorm/dock with a builtin USB-C hub and ethernet adap
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/052bed42e806e3b09ee41e185bb81a7572ece429_image.png)
 
+Green is fans and Gold is the PCB spot
+
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/12cd1b908ec521afa106629a3000850724c9c127_image.png)
 # Total cost $119.45
 
