@@ -3370,6 +3370,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C3197788"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "77011dd7-ef96-4f66-b740-c1a58bb6a197")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/0d2e35e8-bd91-4061-a405-1a570f9833a3")
 		(sheetname "/")
@@ -4374,7 +4386,7 @@
 		(path "/34123941-f0a8-4820-a261-0297bceb626c")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -5058,7 +5070,7 @@
 		(path "/def563b4-5ce4-407d-95e7-40b991e34484")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -5548,7 +5560,7 @@
 		(path "/aec3fb50-561f-479c-9595-d7c60f42702d")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 12.42 17.33)
 			(end -3.53 17.33)
@@ -9229,7 +9241,7 @@
 		(path "/963be307-715f-4125-a1cc-5acc9d4bd8da")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -10107,7 +10119,7 @@
 		(path "/0c5092a0-701f-4eaa-83cb-ce18251a0fa8")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.35 -2.65)
 			(end 6.45 -2.65)
@@ -12196,7 +12208,7 @@
 		(path "/3b768fc1-ca4e-43e0-b9b7-0cbb225d5fe4")
 		(sheetname "/")
 		(sheetfile "main.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.1 3.75)
 			(end -0.9 3.75)
